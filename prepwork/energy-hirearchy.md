@@ -22,6 +22,6 @@ Figure 1b: Manual Mode
 
 ![Figure 1b](../imgs/energy-hirearchy/1b.svg)
 
-In height-fixed mode, UAV automatically decide its next move; In manual mode, the next move is controlled by hand. From Figure 1 and Table 1, we can conclude that: the motor is draning the most part of the energy consumption, and the motor energy drainage is varying dramatically. Apart from that, the motor scheduling is usually static. Therefore, it is diffcult to lower the consumption through controlling motors and hardware scheduling.\
+In height-fixed mode, UAV automatically decide its next move; In manual mode, the next move is controlled by hand. From Figure 1 and Table 1, we can conclude that: the motor is draning the most part of the energy consumption, and the motor energy drainage is varying dramatically. Apart from that, the motor scheduling is usually static. Therefore, it is diffcult to lower the consumption through controlling motors and hardware scheduling.
 
 Another energy-consuming part of the UAV is the onboard computer. When the computing load hits a peak, the energy consumption also presents a spike. Overall, to optimize the energy consumption, we shall take the consumption of the onboard computer seriously.
